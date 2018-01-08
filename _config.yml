@@ -1,8 +1,9 @@
 title: Hernan Figueroa
 description: >- # this means to ignore newlines until "baseurl:"
   This is the public business card for Hernan Figueroa.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # Site at root
 github_username:  hpfigueroa
 
 # Build settings
 theme: minima
+list_title: A journey
