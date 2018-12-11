@@ -28,5 +28,5 @@ Deciding whether to build another generation plant, e.g. a wind turbine farm, re
 Analyzing the probability density function of wind measurements provides a reliable and quick estimation of the potential energy production of an wind energy site.
 Using wind measurement time series datasets, we can estimate the potential for energy production.
 
-
+3. [Interactive Load Curve](/RAssignments/EDAVProject.html)
 
