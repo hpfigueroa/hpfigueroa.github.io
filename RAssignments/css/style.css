@@ -1,0 +1,68 @@
+svg{
+	overflow: visible;
+}
+
+body{
+  font-family: Arial;
+  margin: auto;
+  overflow: hidden;
+  text-align: center;
+}
+
+h1 {
+  /*font-size: 1.5em;*/
+  font-family: helvetica;
+  font-weight: 100;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+p {
+  text-align: justify;
+  font-size: 25px;
+  font-family: helvetica;
+  font-weight: 100;
+  max-width: 600px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#after {
+  visibility: hidden;
+}
+
+.axis{
+  opacity: .5;
+}
+
+.line{
+  fill: None;
+  stroke: #7fa4ce;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 4;
+}
+
+.area{
+  fill: #bee1ed;
+}
+
+.your-line{
+  stroke: #ffce44;
+  stroke-width: 4;
+  stroke-dasharray: 1 7;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+text {
+  font-size: 13px;
+}
+
+text.axis {
+  font-size: 18px;
+  text-anchor: middle;
+}
